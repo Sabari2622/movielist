@@ -1,0 +1,1 @@
+Hello this is a project for rendering the movies of the json file
